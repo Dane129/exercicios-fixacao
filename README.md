@@ -1,7 +1,7 @@
 # Exercícios utilizando o VisuAlg
 
 Progresso:
-Exercícios - 1 / 15 de 40<br>
+Exercícios - 1 / 20 de 40<br>
 Exercícios - 2 /<br>
 Exercícios - 3 /<br>
 
