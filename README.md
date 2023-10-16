@@ -1,4 +1,4 @@
-# Exercícios utilizando o VisuAlg
+# Exercícios utilizando o VisuAlg e Python
 
 Progresso:
 Exercícios - 1 / 25 de 40<br>
