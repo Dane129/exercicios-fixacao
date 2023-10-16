@@ -1,7 +1,7 @@
 # Exercícios utilizando o VisuAlg e Python
 
 Progresso:
-Exercícios - 1 / 25 de 40<br>
+Exercícios - 1 / 30 de 40<br>
 Exercícios - 2 /<br>
 Exercícios - 3 /<br>
 
