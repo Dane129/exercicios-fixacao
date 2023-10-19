@@ -3,7 +3,7 @@
 Progresso:
 Exercícios - 1 / 40 de 40 - Finalizada<br>
 Exercícios - 2 / 12 de 12 - Finalizada<br> 
-Exercícios - 3 /<br>
+Exercícios - 3 / 1 de 10<br>
 
 Realizei os exercícios usando um material de referência que pode ser encontrado aqui:
 https://docentes.ifrn.edu.br/jonathanpereira/disciplinas/algoritmos/
@@ -13,3 +13,6 @@ Estou feliz que consegui realizar tudo e consegui aprender bastante coisa sobre 
 
 ## Exercícios 2 - Estruturas Condicionais
 Aprendi bastante e foram exercícios legais.
+
+## Exercícios 3 - Estruturas de Repetição
+Nessa parte vou precisar estudar pra realizar os exercícios já que se tornou um pouco díficil pra mim.
