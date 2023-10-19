@@ -1,8 +1,8 @@
 # Exercícios utilizando o VisuAlg e Python
 
 Progresso:
-Exercícios - 1 / 40 de 40<br> - Finalizada
-Exercícios - 2 / 12 de 12<br> - Finalizada 
+Exercícios - 1 / 40 de 40 - Finalizada<br>
+Exercícios - 2 / 12 de 12 - Finalizada<br> 
 Exercícios - 3 /<br>
 
 Realizei os exercícios usando um material de referência que pode ser encontrado aqui:
