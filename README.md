@@ -12,7 +12,7 @@ https://docentes.ifrn.edu.br/jonathanpereira/disciplinas/algoritmos/
 Estou feliz que consegui realizar tudo e consegui aprender bastante coisa sobre matemática no meio do caminho.
 
 ## Exercícios 2 - Estruturas Condicionais
-Aprendi bastante e foram exercícios legais.
+Foi interessante aprender a como lidar com condições utilizando Python.
 
 ## Exercícios 3 - Estruturas de Repetição
 Nessa parte vou precisar estudar pra realizar os exercícios já que se tornou um pouco díficil pra mim.
