@@ -1,6 +1,6 @@
 # Exercícios utilizando o VisuAlg e Python
 
-Progresso:
+Progresso:<br>
 Exercícios - 1 / 40 de 40 - Finalizada<br>
 Exercícios - 2 / 12 de 12 - Finalizada<br> 
 Exercícios - 3 / 7 de 10 - Em espera <br>
